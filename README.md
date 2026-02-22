@@ -17,7 +17,8 @@ Desarrollado como material complementario al artículo:
 - `Fig_TFIDF_Sustantivos.png` — Vocabulario más característico por obra
 
 ## Scripts
-- analisis_Florentin_Lucinde_lexico.R` — Genera las figuras publicadas así como el análisis completo de los textos
+- analisis_Florentin_Lucinde_lexico.R — Genera las figuras publicadas así como el análisis completo de los textos
+- analisis_capitulos.R - Evolución de conceptos clave a lo largo de la obra
 
 ## Requisitos
 R >= 4.1 | tidyverse, stopwords, scales, tidytext
