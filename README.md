@@ -11,14 +11,10 @@ Desarrollado como material complementario al artículo:
 - `Fig_1_Masculinidades.png` — Sección 3
 - `Fig_2_Ocio_Desplazamientos.png` — Sección 5
 
-## Análisis adicionales (repositorio)
-- `Fig_A_Koketterie.png` — Campo semántico de la coquetería (§2)
-- `Fig_C2_Dispersion_Muessig.png` — Dispersión narrativa de *müßig* (§5)
-- `Fig_TFIDF_Sustantivos.png` — Vocabulario más característico por obra
-
 ## Scripts
 - analisis_Florentin_Lucinde_lexico.R — Genera las figuras publicadas así como el análisis completo de los textos
 - analisis_capitulos.R - Evolución de conceptos clave a lo largo de la obra
+- analisis_lexico_lemma.R - Análisis experimental a través del paquete "udpipe"
 
 ## Requisitos
 R >= 4.1 | tidyverse, stopwords, scales, tidytext
